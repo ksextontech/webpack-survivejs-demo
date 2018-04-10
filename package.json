@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/ksextontech/webpack-survivejs-demo/issues"
   },
-  "homepage": "https://github.com/ksextontech/webpack-survivejs-demo#readme"
+  "homepage": "https://github.com/ksextontech/webpack-survivejs-demo#readme",
+  "devDependencies": {
+    "webpack": "^4.5.0",
+    "webpack-cli": "^2.0.14"
+  }
 }
